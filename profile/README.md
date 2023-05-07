@@ -1,5 +1,5 @@
 # Hello! We are HackHajs!
-### It's pronounced Hack-Highs
+##### /hăkhīs/
 
 # We are
 | Slushee   | Yazide     |
