@@ -2,4 +2,4 @@
 ##### /hăkhīs/
 
 # We are
-![team](/team.png)
+![team](https://raw.githubusercontent.com/HackHajs/.github/main/profile/team.png)
