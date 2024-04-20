@@ -2,10 +2,10 @@
 ##### /hækhaɪs/
 # 2023
 ## Meet the team:
-![team](https://raw.githubusercontent.com/HackHajs/.github/main/profile/2023team.png)
-| https://slushee.dev | Spot reserved | Spot reserved | Spot reserved |
-|---------------------|---------------|---------------|---------------|
-|         ???         |      ???      |      ???      |      ???      |
+![team](https://raw.githubusercontent.com/HackHajs/.github/main/profile/team2023.png)
+| Spot reserved | Spot reserved | https://slushee.dev | Spot reserved |
+|---------------|---------------|---------------------|---------------|
+|      ???      |      ???      |         ???         |      ???      |
 
 # 2022
 ## Meet the team:
