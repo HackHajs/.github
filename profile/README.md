@@ -4,20 +4,6 @@
 
 # 2023
 ## Meet the team:
-<img src="https://raw.githubusercontent.com/HackHajs/.github/main/profile/team2023.png" width=600px />
-
-| Spot reserved | Spot reserved | https://slushee.dev | Spot reserved |
-|---------------|---------------|---------------------|---------------|
-|      ???      |      ???      |         ???         |      ???      |
-## Check out the project:
-#### == TODO ==
-
----
-
----
-
-# 2022
-## Meet the team:
 <img src="https://raw.githubusercontent.com/HackHajs/.github/main/profile/team2022.png" width=600px />
 
 | https://peiphy.xyz | https://yzde.me | https://slushee.dev | No personal website |
