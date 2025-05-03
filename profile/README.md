@@ -6,9 +6,9 @@
 ## Meet the team:
 <img src="https://raw.githubusercontent.com/HackHajs/.github/main/profile/team2025.png" width=600px />
 
-| https://peiphy.xyz | https://cyberwitch.gay | https://slushee.dev | https://arf20.com |
-|--------------------|------------------------|---------------------|-------------------|
-|                    |                        |                     |                   |
+| https://peiphy.xyz  | https://cyberwitch.gay | https://slushee.dev | https://arf20.com |
+|---------------------|------------------------|---------------------|-------------------|
+| AI integration & UX | Core mechanics         | 2D & 3D assets      | Game design       |
 
 # 2023
 ## Meet the team:
