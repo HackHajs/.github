@@ -10,7 +10,7 @@
 |---------------------|------------------------|---------------------|-------------------|
 | AI integration & UX | Core mechanics         | 2D & 3D assets      | Game design       |
 ## Check out the project
-[![banner](https://github.com/HackHajs/CarHaj/raw/main/Resources/Banner.svg)
+[![banner](https://github.com/HackHajs/CarHaj/raw/main/Resources/Banner.svg)]
 Winner of the MLH GoDaddy Best Domain prize!
 # 2023
 ## Meet the team:
