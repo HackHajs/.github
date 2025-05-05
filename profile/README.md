@@ -9,7 +9,9 @@
 | https://peiphy.xyz  | https://cyberwitch.gay | https://slushee.dev | https://arf20.com |
 |---------------------|------------------------|---------------------|-------------------|
 | AI integration & UX | Core mechanics         | 2D & 3D assets      | Game design       |
-
+## Check out the project
+[![banner](https://github.com/HackHajs/CarHaj/raw/main/Resources/Banner.svg)
+Winner of the MLH GoDaddy Best Domain prize!
 # 2023
 ## Meet the team:
 <img src="https://raw.githubusercontent.com/HackHajs/.github/main/profile/team2023.png" width=600px />
