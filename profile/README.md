@@ -2,6 +2,14 @@
 
 ##### /hækhaɪs/
 
+# 2026
+## Meet the team:
+<img src="https://raw.githubusercontent.com/HackHajs/.github/main/profile/team2026.png" width=600px />
+
+| https://peiphy.xyz | https://cyberwitch.gay | https://slushee.dev | No personal website |
+|--------------------|------------------------|---------------------|---------------------|
+|                    |                        |                     |                     |
+
 # 2025
 ## Meet the team:
 <img src="https://raw.githubusercontent.com/HackHajs/.github/main/profile/team2025.png" width=600px />
