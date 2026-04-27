@@ -12,6 +12,7 @@
 
 ## Check out the project
 [![banner](https://d112y698adiu2z.cloudfront.net/photos/production/software_thumbnail_photos/004/607/072/datas/medium.png)](https://devpost.com/software/skrunkly-draw)
+
 Winner of the MLH best use of MongoDB Atlas prize!
 
 # 2025
